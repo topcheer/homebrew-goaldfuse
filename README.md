@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install topcheer/goaldfuse/<formula>`
+`brew install topcheer/goaldfuse/goaldfuse`
 
-Or `brew tap topcheer/goaldfuse` and then `brew install <formula>`.
+Or `brew tap topcheer/goaldfuse` and then `brew install goaldfuse`.
 
 ## Documentation
 
