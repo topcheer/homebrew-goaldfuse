@@ -1,4 +1,4 @@
-class GoAldFuse < Formula
+class Goaldfuse < Formula
   desc "Mount AliYunDrive as FUSE drive"
   homepage "https://github.com/topcheer/goaldfuse"
   url "https://github.com/topcheer/goaldfuse/releases/download/v1.0.10/macOS-all-goaldfuse.tar.gz"
