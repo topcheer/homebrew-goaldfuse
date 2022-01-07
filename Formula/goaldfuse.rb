@@ -1,9 +1,9 @@
 class Goaldfuse < Formula
   desc "Mount AliYunDrive as FUSE drive"
   homepage "https://github.com/topcheer/goaldfuse"
-  url "https://github.com/topcheer/goaldfuse/releases/download/v1.0.10/macOS-all-goaldfuse.tar.gz"
+  url "https://github.com/topcheer/goaldfuse/releases/download/v1.0.11/macOS-all-goaldfuse.tar.gz"
   version "1.0.11"
-  sha256 "74385cf115b000dce43207eb7b9c24106ac4115a6bc8ec1fe79ceef5693b8dae"
+  sha256 "91dd4f79763d93e54923ae886275ec8e522881a6f4b10959615d30e5823ed258"
   license all_of: ["MIT", "CC-BY-SA-4.0"]
 
   def install
